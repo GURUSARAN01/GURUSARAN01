@@ -6,18 +6,9 @@
 
 I turn raw data into useful products, automated pipelines, clear insights, and intelligent applications.
 
-<a href="https://github.com/GURUSARAN01">
-  <img src="https://img.shields.io/badge/GitHub-GURUSARAN01-181717?style=for-the-badge" alt="GitHub profile">
-</a>
-<!-- Replace the URL below with your real LinkedIn URL -->
-<a href="https://www.linkedin.com/in/gurusaransivakumar/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
-</a>
-
-<a href="https://gurusaransivakumar.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-4CAF50?style=for-the-badge" alt="Portfolio website">
-</a>
-
+[![GitHub](https://img.shields.io/badge/GitHub-GURUSARAN01-181717?logo=github)](https://github.com/GURUSARAN01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/gurusaransivakumar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-4CAF50)](https://gurusaransivakumar.vercel.app/)
 
 </div>
 
@@ -143,32 +134,30 @@ Academic projects covering customer purchase prediction and dynamic pricing unde
 ## Technical Toolkit
 
 ### Data Analytics and BI
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
 
 ### Data Science and AI
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square" alt="Machine Learning">
-<img src="https://img.shields.io/badge/NLP-5C3EE8?style=flat-square" alt="Natural Language Processing">
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" alt="Large Language Models">
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230)
+![NLP](https://img.shields.io/badge/NLP-5C3EE8)
+![LLMs](https://img.shields.io/badge/LLMs-412991)
 
 ### Data Engineering and Applications
-
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
+
 
 ## What I Am Building Now
 
