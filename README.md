@@ -184,8 +184,8 @@ Academic projects covering customer purchase prediction and dynamic pricing unde
 
 I am interested in opportunities and collaborations involving data analytics, business intelligence, data science, data engineering, and applied AI.
 
-- **LinkedIn:** [Add your LinkedIn profile](YOUR_LINKEDIN_URL)
-- **Portfolio:** [Add your portfolio website](YOUR_PORTFOLIO_URL)
+- **LinkedIn:** [Add your LinkedIn profile](https://www.linkedin.com/in/gurusaransivakumar/)
+- **Portfolio:** [Add your portfolio website](https://gurusaransivakumar.vercel.app/)
 - **Email:** Add a professional email address through GitHub's profile contact settings
 
 <div align="center">
