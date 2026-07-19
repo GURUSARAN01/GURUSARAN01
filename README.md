@@ -187,8 +187,6 @@ Academic projects covering customer purchase prediction and dynamic pricing unde
 
 </div>
 
-> GitHub's native contribution calendar remains below the profile README. This section gives visitors a quick activity snapshot near the top.
-
 ---
 
 ## Let's Connect
