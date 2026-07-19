@@ -7,8 +7,8 @@
 I turn raw data into useful products, automated pipelines, clear insights, and intelligent applications.
 
 [![GitHub](https://img.shields.io/badge/GitHub-GURUSARAN01-181717?logo=github)](https://github.com/GURUSARAN01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-4CAF50)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/gurusaransivakumar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-4CAF50)](https://gurusaransivakumar.vercel.app/)
 
 </div>
 
@@ -184,8 +184,8 @@ Academic projects covering customer purchase prediction and dynamic pricing unde
 
 I am interested in opportunities and collaborations involving data analytics, business intelligence, data science, data engineering, and applied AI.
 
-- **LinkedIn:** [Add your LinkedIn profile](https://www.linkedin.com/in/gurusaransivakumar/)
-- **Portfolio:** [Add your portfolio website](https://gurusaransivakumar.vercel.app/)
+- **LinkedIn:** [Gurusaran Sivakumar](https://www.linkedin.com/in/gurusaransivakumar/)
+- **Portfolio:** [AGurusaran Sivakumar](https://gurusaransivakumar.vercel.app/)
 - **Email:** Add a professional email address through GitHub's profile contact settings
 
 <div align="center">
