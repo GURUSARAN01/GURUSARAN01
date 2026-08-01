@@ -4,23 +4,39 @@
 
 ### Data Analyst · Applied Data Scientist · AI Builder
 
-<img
-  src="./assets/info-card.svg"
-  alt="Gurusaran profile information"
-  width="100%"
-/>
+I build analytics, machine-learning, and AI applications that transform raw data into practical business decisions.
 
-<br><br>
+<br>
 
-I build data analytics, machine-learning, and AI applications that turn raw data into practical business decisions.
+<table>
+<tr>
 
-<br><br>
+<td width="50%" valign="top" align="center">
+  <img
+    src="./assets/info-card.svg"
+    alt="About Gurusaran"
+    width="100%"
+  />
+</td>
 
-## GitHub Activity
+<td width="50%" valign="top" align="center">
+  <img
+    src="./assets/data-ai-pipeline.svg"
+    alt="Gurusaran Data and AI pipeline"
+    width="100%"
+  />
+</td>
+
+</tr>
+</table>
+
+<br>
+
+## Contribution Activity
 
 <img
   src="./assets/contribution-graph.svg"
-  alt="Gurusaran GitHub contribution graph"
+  alt="Gurusaran GitHub contribution activity"
   width="100%"
 />
 
