@@ -193,7 +193,7 @@ An end-to-end data pipeline using Bronze, Silver, and Gold layers to convert raw
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/gurusaran-sivakumar/">
+  <a href="https://www.linkedin.com/in/gurusaransivakumar/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
