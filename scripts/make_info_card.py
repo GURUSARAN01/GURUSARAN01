@@ -23,13 +23,13 @@ PROFILE_LINES = [
 
 
 def create_svg() -> str:
-    width = 760
-    height = 405
+    width = 820
+    height = 430
 
     label_x = 45
-    value_x = 175
-    first_line_y = 125
-    line_spacing = 28
+    value_x = 185
+    first_line_y = 126
+    line_spacing = 29
 
     text_elements = []
 

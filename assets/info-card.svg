@@ -1,8 +1,8 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
-    width="760"
-    height="405"
-    viewBox="0 0 760 405"
+    width="820"
+    height="430"
+    viewBox="0 0 820 430"
     role="img"
     aria-label="Gurusaran GitHub profile information"
 >
@@ -65,8 +65,8 @@
     <rect
         x="10"
         y="10"
-        width="740"
-        height="385"
+        width="800"
+        height="410"
         rx="14"
         fill="url(#background)"
         stroke="#30363d"
@@ -85,7 +85,7 @@
     <line
         x1="25"
         y1="62"
-        x2="735"
+        x2="795"
         y2="62"
         stroke="#30363d"
     />
@@ -107,15 +107,15 @@
 
                 <text
                     x="45"
-                    y="125"
+                    y="126"
                     class="label"
                 >
                     Role
                 </text>
 
                 <text
-                    x="175"
-                    y="125"
+                    x="185"
+                    y="126"
                     class="value"
                 >
                     Data Analyst | Applied Data Scientist
@@ -135,15 +135,15 @@
 
                 <text
                     x="45"
-                    y="153"
+                    y="155"
                     class="label"
                 >
                     Education
                 </text>
 
                 <text
-                    x="175"
-                    y="153"
+                    x="185"
+                    y="155"
                     class="value"
                 >
                     MSc Data Analytics &amp; Decision Science
@@ -163,15 +163,15 @@
 
                 <text
                     x="45"
-                    y="181"
+                    y="184"
                     class="label"
                 >
                     Experience
                 </text>
 
                 <text
-                    x="175"
-                    y="181"
+                    x="185"
+                    y="184"
                     class="value"
                 >
                     Business Intelligence | Software Engineering
@@ -191,15 +191,15 @@
 
                 <text
                     x="45"
-                    y="209"
+                    y="213"
                     class="label"
                 >
                     Building
                 </text>
 
                 <text
-                    x="175"
-                    y="209"
+                    x="185"
+                    y="213"
                     class="value"
                 >
                     Customer Intelligence &amp; AI Decision Platform
@@ -219,15 +219,15 @@
 
                 <text
                     x="45"
-                    y="237"
+                    y="242"
                     class="label"
                 >
                     Stack
                 </text>
 
                 <text
-                    x="175"
-                    y="237"
+                    x="185"
+                    y="242"
                     class="value"
                 >
                     Python | SQL | Power BI | Machine Learning
@@ -247,15 +247,15 @@
 
                 <text
                     x="45"
-                    y="265"
+                    y="271"
                     class="label"
                 >
                     Tools
                 </text>
 
                 <text
-                    x="175"
-                    y="265"
+                    x="185"
+                    y="271"
                     class="value"
                 >
                     FastAPI | Streamlit | Docker | Git
@@ -275,15 +275,15 @@
 
                 <text
                     x="45"
-                    y="293"
+                    y="300"
                     class="label"
                 >
                     Focus
                 </text>
 
                 <text
-                    x="175"
-                    y="293"
+                    x="185"
+                    y="300"
                     class="value"
                 >
                     Analytics | Decision Systems | Generative AI
@@ -303,15 +303,15 @@
 
                 <text
                     x="45"
-                    y="321"
+                    y="329"
                     class="label"
                 >
                     Location
                 </text>
 
                 <text
-                    x="175"
-                    y="321"
+                    x="185"
+                    y="329"
                     class="value"
                 >
                     Germany
@@ -331,15 +331,15 @@
 
                 <text
                     x="45"
-                    y="349"
+                    y="358"
                     class="label"
                 >
                     Status
                 </text>
 
                 <text
-                    x="175"
-                    y="349"
+                    x="185"
+                    y="358"
                     class="value"
                 >
                     Open to Data and AI opportunities
@@ -347,7 +347,7 @@
             </g>
             
 
-    <text x="40" y="375" class="command">
+    <text x="40" y="400" class="command">
         $<tspan class="cursor">_</tspan>
     </text>
 </svg>

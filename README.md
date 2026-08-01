@@ -8,20 +8,20 @@
 I build analytics, machine-learning, and AI applications that transform raw data into practical business decisions.
 </p>
 
-<table cellpadding="0" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" valign="top" align="center">
       <img
         src="./assets/info-card.svg"
         alt="About Gurusaran"
-        width="98%"
+        width="100%"
       />
     </td>
     <td width="50%" valign="top" align="center">
       <img
         src="./assets/data-ai-pipeline.svg"
         alt="Gurusaran Data and AI pipeline"
-        width="98%"
+        width="100%"
       />
     </td>
   </tr>
