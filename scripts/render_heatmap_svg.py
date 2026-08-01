@@ -17,9 +17,9 @@ CELL_GAP = 4
 CELL_STEP = CELL_SIZE + CELL_GAP
 
 LEFT_MARGIN = 52
-TOP_MARGIN = 70
+TOP_MARGIN = 78
 RIGHT_MARGIN = 24
-BOTTOM_MARGIN = 52
+BOTTOM_MARGIN = 42
 
 LEVEL_COLORS = {
     0: "#21262d",
@@ -209,30 +209,28 @@ def build_svg(data: dict) -> str:
         current_date += timedelta(days=1)
 
     month_labels: list[str] = []
-    previous_month: int | None = None
+    last_label_x = -999
 
     for week_index in range(number_of_weeks):
         week_date = grid_start + timedelta(weeks=week_index)
+        x = LEFT_MARGIN + week_index * CELL_STEP
 
-        representative_date = week_date + timedelta(days=3)
-
-        if representative_date.month != previous_month:
-            x = LEFT_MARGIN + week_index * CELL_STEP
-
-            month_labels.append(
-                f"""
-                <text
-                    x="{x}"
-                    y="{TOP_MARGIN - 14}"
-                    class="month-label"
-                >
-                    {representative_date.strftime("%b")}
-                </text>
-                """
-            )
-
-            previous_month = representative_date.month
-
+        # Show a month label only when that week is near the start of a month
+        # and there is enough horizontal space from the previous label.
+        if week_date.day <= 7:
+            if x - last_label_x >= 36:
+                month_labels.append(
+                    f"""
+                    <text
+                        x="{x}"
+                        y="{TOP_MARGIN - 14}"
+                        class="month-label"
+                    >
+                        {week_date.strftime("%b")}
+                    </text>
+                    """
+                )
+                last_label_x = x
     weekday_labels = []
 
     for label, row in [
