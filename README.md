@@ -10,8 +10,18 @@
   width="100%"
 />
 
-<br>
+<br><br>
 
 I build data analytics, machine-learning, and AI applications that turn raw data into practical business decisions.
+
+<br><br>
+
+## GitHub Activity
+
+<img
+  src="./assets/contribution-graph.svg"
+  alt="Gurusaran GitHub contribution graph"
+  width="100%"
+/>
 
 </div>
