@@ -1,0 +1,353 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="760"
+    height="405"
+    viewBox="0 0 760 405"
+    role="img"
+    aria-label="Gurusaran GitHub profile information"
+>
+    <defs>
+        <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#0d1117" />
+            <stop offset="100%" stop-color="#161b22" />
+        </linearGradient>
+
+        <filter id="shadow">
+            <feDropShadow
+                dx="0"
+                dy="5"
+                stdDeviation="8"
+                flood-color="#000000"
+                flood-opacity="0.35"
+            />
+        </filter>
+
+        <style>
+            .window-title {
+                fill: #c9d1d9;
+                font-family: Consolas, Monaco, "Courier New", monospace;
+                font-size: 15px;
+            }
+
+            .command {
+                fill: #58a6ff;
+                font-family: Consolas, Monaco, "Courier New", monospace;
+                font-size: 18px;
+                font-weight: 700;
+            }
+
+            .label {
+                fill: #7ee787;
+                font-family: Consolas, Monaco, "Courier New", monospace;
+                font-size: 15px;
+                font-weight: 700;
+            }
+
+            .value {
+                fill: #c9d1d9;
+                font-family: Consolas, Monaco, "Courier New", monospace;
+                font-size: 15px;
+            }
+
+            .cursor {
+                fill: #7ee787;
+                animation: blink 1s steps(2, start) infinite;
+            }
+
+            @keyframes blink {
+                50% {
+                    opacity: 0;
+                }
+            }
+        </style>
+    </defs>
+
+    <rect
+        x="10"
+        y="10"
+        width="740"
+        height="385"
+        rx="14"
+        fill="url(#background)"
+        stroke="#30363d"
+        filter="url(#shadow)"
+    />
+
+    <!-- Terminal buttons -->
+    <circle cx="38" cy="38" r="7" fill="#ff5f56" />
+    <circle cx="60" cy="38" r="7" fill="#ffbd2e" />
+    <circle cx="82" cy="38" r="7" fill="#27c93f" />
+
+    <text x="110" y="44" class="window-title">
+        gurusaran@github
+    </text>
+
+    <line
+        x1="25"
+        y1="62"
+        x2="735"
+        y2="62"
+        stroke="#30363d"
+    />
+
+    <text x="40" y="94" class="command">
+        $ whoami
+    </text>
+
+    
+            <g opacity="0">
+                <animate
+                    attributeName="opacity"
+                    from="0"
+                    to="1"
+                    dur="0.45s"
+                    begin="0.20s"
+                    fill="freeze"
+                />
+
+                <text
+                    x="45"
+                    y="125"
+                    class="label"
+                >
+                    Role
+                </text>
+
+                <text
+                    x="175"
+                    y="125"
+                    class="value"
+                >
+                    Data Analyst | Applied Data Scientist
+                </text>
+            </g>
+            
+
+            <g opacity="0">
+                <animate
+                    attributeName="opacity"
+                    from="0"
+                    to="1"
+                    dur="0.45s"
+                    begin="0.38s"
+                    fill="freeze"
+                />
+
+                <text
+                    x="45"
+                    y="153"
+                    class="label"
+                >
+                    Education
+                </text>
+
+                <text
+                    x="175"
+                    y="153"
+                    class="value"
+                >
+                    MSc Data Analytics &amp; Decision Science
+                </text>
+            </g>
+            
+
+            <g opacity="0">
+                <animate
+                    attributeName="opacity"
+                    from="0"
+                    to="1"
+                    dur="0.45s"
+                    begin="0.56s"
+                    fill="freeze"
+                />
+
+                <text
+                    x="45"
+                    y="181"
+                    class="label"
+                >
+                    Experience
+                </text>
+
+                <text
+                    x="175"
+                    y="181"
+                    class="value"
+                >
+                    Business Intelligence | Software Engineering
+                </text>
+            </g>
+            
+
+            <g opacity="0">
+                <animate
+                    attributeName="opacity"
+                    from="0"
+                    to="1"
+                    dur="0.45s"
+                    begin="0.74s"
+                    fill="freeze"
+                />
+
+                <text
+                    x="45"
+                    y="209"
+                    class="label"
+                >
+                    Building
+                </text>
+
+                <text
+                    x="175"
+                    y="209"
+                    class="value"
+                >
+                    Customer Intelligence &amp; AI Decision Platform
+                </text>
+            </g>
+            
+
+            <g opacity="0">
+                <animate
+                    attributeName="opacity"
+                    from="0"
+                    to="1"
+                    dur="0.45s"
+                    begin="0.92s"
+                    fill="freeze"
+                />
+
+                <text
+                    x="45"
+                    y="237"
+                    class="label"
+                >
+                    Stack
+                </text>
+
+                <text
+                    x="175"
+                    y="237"
+                    class="value"
+                >
+                    Python | SQL | Power BI | Machine Learning
+                </text>
+            </g>
+            
+
+            <g opacity="0">
+                <animate
+                    attributeName="opacity"
+                    from="0"
+                    to="1"
+                    dur="0.45s"
+                    begin="1.10s"
+                    fill="freeze"
+                />
+
+                <text
+                    x="45"
+                    y="265"
+                    class="label"
+                >
+                    Tools
+                </text>
+
+                <text
+                    x="175"
+                    y="265"
+                    class="value"
+                >
+                    FastAPI | Streamlit | Docker | Git
+                </text>
+            </g>
+            
+
+            <g opacity="0">
+                <animate
+                    attributeName="opacity"
+                    from="0"
+                    to="1"
+                    dur="0.45s"
+                    begin="1.28s"
+                    fill="freeze"
+                />
+
+                <text
+                    x="45"
+                    y="293"
+                    class="label"
+                >
+                    Focus
+                </text>
+
+                <text
+                    x="175"
+                    y="293"
+                    class="value"
+                >
+                    Analytics | Decision Systems | Generative AI
+                </text>
+            </g>
+            
+
+            <g opacity="0">
+                <animate
+                    attributeName="opacity"
+                    from="0"
+                    to="1"
+                    dur="0.45s"
+                    begin="1.46s"
+                    fill="freeze"
+                />
+
+                <text
+                    x="45"
+                    y="321"
+                    class="label"
+                >
+                    Location
+                </text>
+
+                <text
+                    x="175"
+                    y="321"
+                    class="value"
+                >
+                    Germany
+                </text>
+            </g>
+            
+
+            <g opacity="0">
+                <animate
+                    attributeName="opacity"
+                    from="0"
+                    to="1"
+                    dur="0.45s"
+                    begin="1.64s"
+                    fill="freeze"
+                />
+
+                <text
+                    x="45"
+                    y="349"
+                    class="label"
+                >
+                    Status
+                </text>
+
+                <text
+                    x="175"
+                    y="349"
+                    class="value"
+                >
+                    Open to Data and AI opportunities
+                </text>
+            </g>
+            
+
+    <text x="40" y="375" class="command">
+        $<tspan class="cursor">_</tspan>
+    </text>
+</svg>
