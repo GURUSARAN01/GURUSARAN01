@@ -185,4 +185,39 @@ An end-to-end data pipeline using Bronze, Silver, and Gold layers to convert raw
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
 </p>
+<h2>Let’s Connect</h2>
+
+<p>
+  I am currently based in Germany and open to full-time opportunities in
+  Data Analytics, Applied Data Science, Business Intelligence, and AI.
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:YOUR-EMAIL-ADDRESS">
+    <img
+      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://github.com/GURUSARAN01?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub repositories"
+    />
+  </a>
+</p>
+
+<p>
+  <strong>Location:</strong> Germany
+  &nbsp;·&nbsp;
+  <strong>Status:</strong> Open to opportunities
+</p>
 </div>
