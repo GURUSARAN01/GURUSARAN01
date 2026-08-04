@@ -51,7 +51,7 @@
     </text>
 
     <text x="18" y="47" class="subtitle">
-        158 public contributions in the displayed period
+        168 public contributions in the displayed period
     </text>
 
     
@@ -10573,7 +10573,7 @@
                 width="12"
                 height="12"
                 rx="2"
-                fill="#39d353"
+                fill="#26a641"
                 opacity="0"
             >
                 <title>7 contributions on July 15, 2026</title>
@@ -10633,7 +10633,7 @@
                 width="12"
                 height="12"
                 rx="2"
-                fill="#26a641"
+                fill="#006d32"
                 opacity="0"
             >
                 <title>5 contributions on July 17, 2026</title>
@@ -10723,7 +10723,7 @@
                 width="12"
                 height="12"
                 rx="2"
-                fill="#26a641"
+                fill="#006d32"
                 opacity="0"
             >
                 <title>5 contributions on July 20, 2026</title>
@@ -11023,7 +11023,7 @@
                 width="12"
                 height="12"
                 rx="2"
-                fill="#26a641"
+                fill="#006d32"
                 opacity="0"
             >
                 <title>5 contributions on July 30, 2026</title>
@@ -11053,7 +11053,7 @@
                 width="12"
                 height="12"
                 rx="2"
-                fill="#26a641"
+                fill="#006d32"
                 opacity="0"
             >
                 <title>5 contributions on July 31, 2026</title>
@@ -11143,10 +11143,10 @@
                 width="12"
                 height="12"
                 rx="2"
-                fill="#21262d"
+                fill="#39d353"
                 opacity="0"
             >
-                <title>No contributions on August 03, 2026</title>
+                <title>10 contributions on August 03, 2026</title>
 
                 <animate
                     attributeName="opacity"
