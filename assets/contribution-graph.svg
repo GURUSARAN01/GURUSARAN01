@@ -51,7 +51,7 @@
     </text>
 
     <text x="18" y="47" class="subtitle">
-        195 public contributions in the displayed period
+        199 public contributions in the displayed period
     </text>
 
     
@@ -11135,10 +11135,10 @@
                 width="12"
                 height="12"
                 rx="2"
-                fill="#21262d"
+                fill="#006d32"
                 opacity="0"
             >
-                <title>No contributions on August 10, 2026</title>
+                <title>4 contributions on August 10, 2026</title>
 
                 <animate
                     attributeName="opacity"
