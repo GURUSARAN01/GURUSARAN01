@@ -2,10 +2,11 @@
 
 <h1>Hi, I'm Gurusaran 👋</h1>
 
-<p><strong>Data Analyst · Applied Data Scientist · AI Engineer</strong></p>
+<p><strong>Data Analyst · Applied Data Scientist · AI Engineering</strong></p>
 
 <p>
-I build analytics, machine-learning, and AI applications that transform raw data into practical business decisions.
+I build data and AI systems — from analytics and machine-learning decision platforms
+to production data pipelines and LLM applications using RAG, vector search, APIs, and evaluation.
 </p>
 
 <table width="100%" cellpadding="0" cellspacing="0">
@@ -17,6 +18,7 @@ I build analytics, machine-learning, and AI applications that transform raw data
         width="100%"
       />
     </td>
+
     <td width="50%" valign="top" align="center">
       <img
         src="./assets/data-ai-pipeline.svg"
@@ -27,6 +29,7 @@ I build analytics, machine-learning, and AI applications that transform raw data
   </tr>
 </table>
 
+
 <h2>Contribution Activity</h2>
 
 <img
@@ -35,9 +38,13 @@ I build analytics, machine-learning, and AI applications that transform raw data
   width="100%"
 />
 
+
 <h2>Featured Projects</h2>
 
 <table width="100%">
+
+  <!-- FLAGSHIP PROJECT -->
+
   <tr>
     <td width="100%" valign="top" align="left" colspan="2">
 
@@ -48,7 +55,9 @@ I build analytics, machine-learning, and AI applications that transform raw data
   </a>
 </h3>
 
-A production-style decision platform that helps an e-commerce marketing team identify valuable customers, predict purchase likelihood, select campaign targets, and estimate expected profit.
+A production-style decision platform that helps an e-commerce marketing team
+identify valuable customers, predict purchase likelihood, select campaign targets,
+and estimate expected profit.
 
 <strong>What it demonstrates</strong>
 
@@ -76,7 +85,13 @@ A production-style decision platform that helps an e-commerce marketing team ide
     </td>
   </tr>
 
+
+  <!-- RAG + MEDALLION ROW -->
+
   <tr>
+
+    <!-- RAG -->
+
     <td width="50%" valign="top" align="left">
 
 <h3>
@@ -86,7 +101,8 @@ A production-style decision platform that helps an e-commerce marketing team ide
   </a>
 </h3>
 
-A retrieval-focused LLM application for document question answering, built to measure how chunking and retrieval choices affect RAG quality.
+A retrieval-focused LLM application for document question answering,
+built to measure how chunking and retrieval choices affect RAG quality.
 
 <strong>What it demonstrates</strong>
 
@@ -115,6 +131,9 @@ A retrieval-focused LLM application for document question answering, built to me
 
     </td>
 
+
+    <!-- MEDALLION -->
+
     <td width="50%" valign="top" align="left">
 
 <h3>
@@ -124,7 +143,8 @@ A retrieval-focused LLM application for document question answering, built to me
   </a>
 </h3>
 
-An end-to-end data pipeline using Bronze, Silver, and Gold layers to convert raw data into validated, analytics-ready outputs.
+An end-to-end data pipeline using Bronze, Silver, and Gold layers
+to convert raw data into validated, analytics-ready outputs.
 
 <strong>Highlights</strong>
 
@@ -148,79 +168,282 @@ An end-to-end data pipeline using Bronze, Silver, and Gold layers to convert raw
 </a>
 
     </td>
+
   </tr>
+
+
+  <!-- WEATHER PROJECT -->
+
+  <tr>
+    <td width="100%" valign="top" align="left" colspan="2">
+
+<h3>
+  🌦️
+  <a href="https://github.com/GURUSARAN01/weather-pipeline">
+    Stuttgart Weather Pipeline
+  </a>
+</h3>
+
+An automated ETL pipeline that retrieves weather data,
+transforms it, and loads it into PostgreSQL using a scheduled
+Apache Airflow workflow.
+
+<strong>Highlights</strong>
+
+<ul>
+  <li>Scheduled Airflow DAG</li>
+  <li>API ingestion and validation</li>
+  <li>PostgreSQL persistence</li>
+  <li>Dockerized environment</li>
+</ul>
+
+<strong>Stack:</strong>
+<code>Python</code>
+<code>Airflow</code>
+<code>Docker</code>
+<code>PostgreSQL</code>
+
+<br><br>
+
+<a href="https://github.com/GURUSARAN01/weather-pipeline">
+  View project →
+</a>
+
+    </td>
+  </tr>
+
 </table>
+
 
 <p align="center">
   <a href="https://github.com/GURUSARAN01?tab=repositories">
     Explore all repositories →
   </a>
 </p>
+
+
+<h2>AI Engineering Focus</h2>
+
+<p>
+Currently expanding my applied AI engineering stack through hands-on projects
+and DataCamp's <strong>Associate AI Engineer for Developers</strong> track.
+</p>
+
+<p>
+Working with LLM APIs, prompt engineering, structured outputs, embeddings,
+vector databases, RAG, LangChain, Hugging Face, MCP, evaluation,
+API reliability, and production-oriented AI application patterns.
+</p>
+
+
 <h2>Tech Stack</h2>
+
 
 <h4>Generative AI & LLM Engineering</h4>
 
 <p>
-  <img src="https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="Retrieval Augmented Generation" />
-  <img src="https://img.shields.io/badge/Embeddings-4F46E5?style=flat-square" alt="Embeddings" />
-  <img src="https://img.shields.io/badge/Vector_Search-0F766E?style=flat-square" alt="Vector Search" />
-  <img src="https://img.shields.io/badge/ChromaDB-F97316?style=flat-square" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
-  <img src="https://img.shields.io/badge/MCP-5A45FF?style=flat-square" alt="Model Context Protocol" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/LLM_Evaluation-2563EB?style=flat-square" alt="LLM Evaluation" />
+
+  <img
+    src="https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=white"
+    alt="OpenAI API"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"
+    alt="Google Gemini"
+  />
+
+  <img
+    src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"
+    alt="LangChain"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"
+    alt="Hugging Face"
+  />
+
+  <img
+    src="https://img.shields.io/badge/RAG-111827?style=flat-square"
+    alt="Retrieval Augmented Generation"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Embeddings-4F46E5?style=flat-square"
+    alt="Embeddings"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Vector_Search-0F766E?style=flat-square"
+    alt="Vector Search"
+  />
+
+  <img
+    src="https://img.shields.io/badge/ChromaDB-F97316?style=flat-square"
+    alt="ChromaDB"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"
+    alt="Pinecone"
+  />
+
+  <img
+    src="https://img.shields.io/badge/MCP-5A45FF?style=flat-square"
+    alt="Model Context Protocol"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square"
+    alt="Prompt Engineering"
+  />
+
+  <img
+    src="https://img.shields.io/badge/LLM_Evaluation-2563EB?style=flat-square"
+    alt="LLM Evaluation"
+  />
+
 </p>
+
 
 <h4>Data Analysis & Machine Learning</h4>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+
+  <img
+    src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
+    alt="Python"
+  />
+
+  <img
+    src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"
+    alt="SQL"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"
+    alt="Pandas"
+  />
+
+  <img
+    src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"
+    alt="NumPy"
+  />
+
+  <img
+    src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"
+    alt="Scikit-learn"
+  />
+
+  <img
+    src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"
+    alt="PyTorch"
+  />
+
 </p>
+
 
 <h4>Backend & AI Applications</h4>
 
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square" alt="uv" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+  <img
+    src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"
+    alt="FastAPI"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"
+    alt="Pydantic"
+  />
+
+  <img
+    src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square"
+    alt="REST APIs"
+  />
+
+  <img
+    src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square"
+    alt="uv"
+  />
+
+  <img
+    src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"
+    alt="pytest"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"
+    alt="Streamlit"
+  />
+
 </p>
+
 
 <h4>Data Engineering & Development</h4>
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+
+  <img
+    src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"
+    alt="PostgreSQL"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"
+    alt="Apache Airflow"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"
+    alt="Docker"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"
+    alt="Git"
+  />
+
+  <img
+    src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"
+    alt="GitHub Actions"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"
+    alt="Microsoft Azure"
+  />
+
 </p>
+
 
 <h4>Analytics & BI</h4>
 
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+
+  <img
+    src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"
+    alt="Power BI"
+  />
+
+  <img
+    src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"
+    alt="R"
+  />
+
 </p>
+
+
 <h2>Let’s Connect</h2>
 
 <p>
-Open to Data Analytics, Applied Data Science, AI Engineering, and Data & AI roles.
+I am currently based in Germany and open to full-time opportunities in
+<strong>Data Analytics, Applied Data Science, AI Engineering,
+Business Intelligence, and Data & AI roles.</strong>
 </p>
 
 <p>
+
   <a href="https://www.linkedin.com/in/gurusaransivakumar/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -241,6 +464,7 @@ Open to Data Analytics, Applied Data Science, AI Engineering, and Data & AI role
       alt="GitHub repositories"
     />
   </a>
+
 </p>
 
 <p>
@@ -248,4 +472,5 @@ Open to Data Analytics, Applied Data Science, AI Engineering, and Data & AI role
   &nbsp;·&nbsp;
   <strong>Status:</strong> Open to opportunities
 </p>
+
 </div>
