@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Gurusaran 👋</h1>
 
-<p><strong>Data Analyst · Applied Data Scientist · AI Builder</strong></p>
+<p><strong>Data Analyst · Applied Data Scientist · AI Engineer</strong></p>
 
 <p>
 I build analytics, machine-learning, and AI applications that transform raw data into practical business decisions.
@@ -80,40 +80,38 @@ A production-style decision platform that helps an e-commerce marketing team ide
     <td width="50%" valign="top" align="left">
 
 <h3>
-  🌦️
-  <a href="https://github.com/GURUSARAN01/weather-pipeline">
-    Stuttgart Weather Pipeline
+  🧠
+  <a href="https://github.com/GURUSARAN01/mini-rag-reliability-lab">
+    RAG Reliability Lab
   </a>
 </h3>
 
-An automated ETL pipeline that retrieves weather data, transforms it, and loads it into PostgreSQL using a scheduled Apache Airflow workflow.
+A retrieval-focused LLM application for document question answering, built to measure how chunking and retrieval choices affect RAG quality.
 
-<strong>Highlights</strong>
+<strong>What it demonstrates</strong>
 
 <ul>
-  <li>Scheduled Airflow DAG</li>
-  <li>API ingestion and validation</li>
-  <li>PostgreSQL persistence</li>
-  <li>Dockerized environment</li>
+  <li>PDF ingestion, chunking, local embeddings, and semantic vector search</li>
+  <li>ChromaDB retrieval with Gemini-grounded document answers</li>
+  <li>FastAPI backend with Pydantic request validation</li>
+  <li>Custom retrieval evaluation benchmark and latency measurement</li>
+  <li>Improved Retrieval Hit@3 from <strong>70% to 80%</strong> through controlled chunking experiments</li>
 </ul>
 
 <strong>Stack:</strong>
 <code>Python</code>
-<code>Airflow</code>
-<code>Docker</code>
-<code>PostgreSQL</code>
+<code>Gemini</code>
+<code>RAG</code>
+<code>ChromaDB</code>
+<code>FastAPI</code>
+<code>Pydantic</code>
+<code>uv</code>
 
 <br>
 
-<a href="https://github.com/GURUSARAN01/weather-pipeline">
+<a href="https://github.com/GURUSARAN01/mini-rag-reliability-lab">
   View project →
 </a>
-
-</td>
-
-<td width="50%" valign="top" align="left">
-
-<h3>
   🏗️
   <a href="https://github.com/GURUSARAN01/medallion-etl-scheduling">
     Medallion ETL & Scheduling
@@ -155,6 +153,23 @@ An end-to-end data pipeline using Bronze, Silver, and Gold layers to convert raw
 
 <h2>Tech Stack</h2>
 
+<h4>Generative AI & LLM Engineering</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="Retrieval Augmented Generation" />
+  <img src="https://img.shields.io/badge/Embeddings-4F46E5?style=flat-square" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/Vector_Search-0F766E?style=flat-square" alt="Vector Search" />
+  <img src="https://img.shields.io/badge/ChromaDB-F97316?style=flat-square" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/MCP-5A45FF?style=flat-square" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/LLM_Evaluation-2563EB?style=flat-square" alt="LLM Evaluation" />
+</p>
+
 <h4>Data Analysis & Machine Learning</h4>
 
 <p>
@@ -166,13 +181,15 @@ An end-to-end data pipeline using Bronze, Silver, and Gold layers to convert raw
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
-<h4>Analytics & Applications</h4>
+<h4>Backend & AI Applications</h4>
 
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square" alt="uv" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
 </p>
 
 <h4>Data Engineering & Development</h4>
@@ -185,11 +202,17 @@ An end-to-end data pipeline using Bronze, Silver, and Gold layers to convert raw
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
 </p>
+
+<h4>Analytics & BI</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+</p>
 <h2>Let’s Connect</h2>
 
 <p>
-  I am currently based in Germany and open to full-time opportunities in
-  Data Analytics, Applied Data Science, Business Intelligence, and AI.
+Open to Data Analytics, Applied Data Science, AI Engineering, and Data & AI roles.
 </p>
 
 <p>
