@@ -67,13 +67,13 @@ A production-style decision platform that helps an e-commerce marketing team ide
 <code>Streamlit</code>
 <code>Docker</code>
 
-<br>
+<br><br>
 
 <a href="https://github.com/GURUSARAN01/customer-intelligence-platform">
   View flagship project →
 </a>
 
-</td>
+    </td>
   </tr>
 
   <tr>
@@ -107,15 +107,17 @@ A retrieval-focused LLM application for document question answering, built to me
 <code>Pydantic</code>
 <code>uv</code>
 
-<br>
+<br><br>
 
 <a href="https://github.com/GURUSARAN01/mini-rag-reliability-lab">
   View project →
 </a>
 
-</td>
-  </tr>
+    </td>
 
+    <td width="50%" valign="top" align="left">
+
+<h3>
   🏗️
   <a href="https://github.com/GURUSARAN01/medallion-etl-scheduling">
     Medallion ETL & Scheduling
@@ -139,13 +141,13 @@ An end-to-end data pipeline using Bronze, Silver, and Gold layers to convert raw
 <code>Airflow</code>
 <code>Data Engineering</code>
 
-<br>
+<br><br>
 
 <a href="https://github.com/GURUSARAN01/medallion-etl-scheduling">
   View project →
 </a>
 
-</td>
+    </td>
   </tr>
 </table>
 
@@ -154,7 +156,6 @@ An end-to-end data pipeline using Bronze, Silver, and Gold layers to convert raw
     Explore all repositories →
   </a>
 </p>
-
 <h2>Tech Stack</h2>
 
 <h4>Generative AI & LLM Engineering</h4>
