@@ -112,6 +112,10 @@ A retrieval-focused LLM application for document question answering, built to me
 <a href="https://github.com/GURUSARAN01/mini-rag-reliability-lab">
   View project →
 </a>
+
+</td>
+  </tr>
+
   🏗️
   <a href="https://github.com/GURUSARAN01/medallion-etl-scheduling">
     Medallion ETL & Scheduling
