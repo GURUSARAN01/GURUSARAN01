@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gurusaran 👋</h1>
 
 <p align="center">
-  <strong>Data Analyst · Applied Data Scientist · AI Engineering</strong>
+  <strong>Data Analyst · Applied Data Scientist · AI Engineer</strong>
 </p>
 
 <p align="center">
